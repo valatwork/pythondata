@@ -1,0 +1,13 @@
+
+.ipynb_checkpoints/005-filtering-df-checkpoint.ipynb
+.ipynb_checkpoints/006-removing-adding-columns-rows-checkpoint.ipynb
+.ipynb_checkpoints/006E-removing-adding-checkpoint.ipynb
+.ipynb_checkpoints/007-types-and-na-values-checkpoint.ipynb
+.ipynb_checkpoints/007E-types-and-na-values-checkpoint.ipynb
+.ipynb_checkpoints/008-working-with-dates-time-checkpoint.ipynb
+*.csv
+*.png
+*.tsv
+data/.DS_Store
+data/.ipynb_checkpoints/SeabornAesthetics-checkpoint.ipynb
+Images/.DS_Store
