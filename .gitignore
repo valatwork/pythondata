@@ -11,3 +11,8 @@
 data/.DS_Store
 data/.ipynb_checkpoints/SeabornAesthetics-checkpoint.ipynb
 Images/.DS_Store
+/.venv/
+/.ipynb_checkpoints/
+/data/
+/Images/
+/.idea/
